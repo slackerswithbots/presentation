@@ -7,7 +7,7 @@ const path = require('path');
 const baseDirectory = __dirname;
 
 // Constants
-const PORT = process.env.PORT || 9615;
+const PORT = process.env.PORT || 8080;
 
 // http.createServer(function (request, response) {
 //    var requestUrl = url.parse(request.url)    
